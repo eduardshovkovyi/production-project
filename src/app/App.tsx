@@ -6,7 +6,7 @@ import { Navbar } from "widgets/Navbar";
 import { Sidebar } from "widgets/Sidebar";
 import "./styles/index.scss";
 
-export const App = () => {
+export function App() {
   const { theme } = useTheme();
 
   return (
@@ -20,4 +20,4 @@ export const App = () => {
       </Suspense>
     </div>
   );
-};
+}
