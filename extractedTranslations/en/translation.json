@@ -2,5 +2,9 @@
   "About page": "About page",
   "Home page": "Home page",
   "Page not found": "Page not found",
-  "language": "language"
+  "Something went wrong": "Something went wrong",
+  "Update page": "Update page",
+  "language": "language",
+  "throw error": "throw error",
+  "toggle": "toggle"
 }
