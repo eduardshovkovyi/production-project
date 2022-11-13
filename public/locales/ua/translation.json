@@ -1,9 +1,10 @@
 {
-  "language": "Eng",
+  "language": "English",
   "Home page": "Головна сторінка",
   "Page not found": "Сторінка не найдена",
   "Something went wrong": "Что-то пошло не так...",
   "Update page": "Обновить страницу",
   "toggle": "toggle",
-  "throw error": "throw error"
+  "throw error": "throw error",
+  "lang": "En"
 }
