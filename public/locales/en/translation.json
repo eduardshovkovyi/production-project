@@ -6,5 +6,9 @@
   "Update page": "Update page",
   "toggle": "toggle",
   "throw error": "throw error",
-  "lang": "Укр"
+  "lang": "Укр",
+  "Login": "Login",
+  "Sign in": "Sign in",
+  "Input username": "Input username",
+  "Input password": "Input password"
 }
